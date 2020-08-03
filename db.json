@@ -1,15 +1,13 @@
 {
     "category": {
         "hombre" : [
-            {"img": "", "name": "Polo Edición Primavera", "price": 29.90, 
-                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}]},
-            {"img": "", "name": "Polo Edición Primavera 2", "price": 29.90, 
-                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}]},
-            {"img": "", "name": "Polo Edición Primavera 3", "price": 29.90, 
-                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}]},
-            {"img": "", "name": "Polo Edición Primavera 4", "price": 29.90, 
-                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}]}
-        ]
+            {"img": "", "name": "Polo Edición Primavera", "price": 29.90, "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}],
+                "arrayImg":[{"img":"", "name": ""}]}
+        ],
+        "mujer":[],
+        "niños":[],
+        "accesorios":[]
     },
     "popular": {
         "male": [
@@ -25,5 +23,9 @@
             {"img": "https://image.freepik.com/vector-gratis/permanecer-casa-ilustracion-concepto_23-2148479211.jpg", "name": "Polo"},
             {"img": "https://image.freepik.com/vector-gratis/permanecer-casa-ilustracion-concepto_23-2148479211.jpg", "name": "Gorra"}
         ]
-    }
+    },
+    "relation":{
+        "one" : []
+    },
+    "search": []
 }
