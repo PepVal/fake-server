@@ -19,6 +19,9 @@
                 "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/30186_01_720x.jpg", "name": "Polo Niños Contraste "}, {"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/30186_02_720x.jpg", "name": "Polo Niños Contraste"}]}
         ],
         "accesorios":[
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/30198_01_720x.jpg", "name": "Gorra beisbolera negra", "price": "$ 19.99", "description":"Perfecta para completar los looks más veraniegos, nuestra gorra más icónica está realizada en ligera sarga de algodón con logo bordado a color contraste en la parte frontal.",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/30198_01_720x.jpg", "name": "Gorra beisbolera negra"}, {"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/30198_02_720x.jpg", "name": "Gorra beisbolera negra"}]}
           ]
     },
     "popular": {
