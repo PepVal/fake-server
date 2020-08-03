@@ -8,7 +8,7 @@
 
           ],
         "mujer":[
-            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29991_01_720x.jpg", "name": "Vestido polo sin mangas azul marino", "price": "$ 34.99", "description":"Vestido con estética polo sin mangas. Presenta un patrón ligeramente entallado y unido a las pequeñas aberturas en los extremos inferiores de las costuras laterales, lo convierten en una prenda cómoda e imprescindible para tus días de verano.",
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29991_01_720x.jpg", "name": "Vestido polo sin mangas", "price": "$ 34.99", "description":"Vestido con estética polo sin mangas. Presenta un patrón ligeramente entallado y unido a las pequeñas aberturas en los extremos inferiores de las costuras laterales, lo convierten en una prenda cómoda e imprescindible para tus días de verano.",
                 "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
                 "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29991_01_720x.jpg", "name": "Vestido polo sin mangas azul marino"}, {"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29991_02_720x.jpg", "name": "Vestido polo sin mangas azul marino"},
                     {"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29991_04_720x.jpg" ,"name":"Vestido polo sin mangas "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29991_05_720x.jpg", "name":"Vestido polo sin mangas azul marino"}]}
